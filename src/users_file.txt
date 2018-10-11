@@ -1,0 +1,6 @@
+Alice	hello
+Bob	hey
+Bibi	money
+Mor	pipi
+Rom	bla
+Yair	tambal
